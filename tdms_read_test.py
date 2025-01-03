@@ -12,3 +12,4 @@ for group in tdms_file.groups():
         # Access a subset of data
         data_subset = channel[10:20]
         print(data_subset)
+        print("test communicate")
